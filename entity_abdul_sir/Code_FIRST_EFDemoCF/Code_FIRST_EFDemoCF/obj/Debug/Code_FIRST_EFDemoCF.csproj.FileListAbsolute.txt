@@ -1,0 +1,14 @@
+D:\Entity_framework\entity_abdul_sir\Code_FIRST_EFDemoCF\Code_FIRST_EFDemoCF\bin\Debug\Code_FIRST_EFDemoCF.exe.config
+D:\Entity_framework\entity_abdul_sir\Code_FIRST_EFDemoCF\Code_FIRST_EFDemoCF\bin\Debug\Code_FIRST_EFDemoCF.exe
+D:\Entity_framework\entity_abdul_sir\Code_FIRST_EFDemoCF\Code_FIRST_EFDemoCF\bin\Debug\Code_FIRST_EFDemoCF.pdb
+D:\Entity_framework\entity_abdul_sir\Code_FIRST_EFDemoCF\Code_FIRST_EFDemoCF\bin\Debug\EntityFramework.dll
+D:\Entity_framework\entity_abdul_sir\Code_FIRST_EFDemoCF\Code_FIRST_EFDemoCF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Entity_framework\entity_abdul_sir\Code_FIRST_EFDemoCF\Code_FIRST_EFDemoCF\bin\Debug\EntityFramework.xml
+D:\Entity_framework\entity_abdul_sir\Code_FIRST_EFDemoCF\Code_FIRST_EFDemoCF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Entity_framework\entity_abdul_sir\Code_FIRST_EFDemoCF\Code_FIRST_EFDemoCF\obj\Debug\Code_FIRST_EFDemoCF.csprojAssemblyReference.cache
+D:\Entity_framework\entity_abdul_sir\Code_FIRST_EFDemoCF\Code_FIRST_EFDemoCF\obj\Debug\Code_FIRST_EFDemoCF.csproj.CoreCompileInputs.cache
+D:\Entity_framework\entity_abdul_sir\Code_FIRST_EFDemoCF\Code_FIRST_EFDemoCF\obj\Debug\Code_FIRST_EFDemoCF.csproj.CopyComplete
+D:\Entity_framework\entity_abdul_sir\Code_FIRST_EFDemoCF\Code_FIRST_EFDemoCF\obj\Debug\Code_FIRST_EFDemoCF.exe
+D:\Entity_framework\entity_abdul_sir\Code_FIRST_EFDemoCF\Code_FIRST_EFDemoCF\obj\Debug\Code_FIRST_EFDemoCF.pdb
+D:\Entity_framework\entity_abdul_sir\Code_FIRST_EFDemoCF\Code_FIRST_EFDemoCF\obj\Debug\Code_FIRST_EFDemoCF.Migrations.CreateProduct.resources
+D:\Entity_framework\entity_abdul_sir\Code_FIRST_EFDemoCF\Code_FIRST_EFDemoCF\obj\Debug\Code_FIRST_EFDemoCF.csproj.GenerateResource.cache

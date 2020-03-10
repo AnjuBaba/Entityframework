@@ -1,0 +1,14 @@
+D:\Entity_framework\entity_abdul_sir\Service1\Service1\bin\Debug\Service1.exe.config
+D:\Entity_framework\entity_abdul_sir\Service1\Service1\bin\Debug\Service1.exe
+D:\Entity_framework\entity_abdul_sir\Service1\Service1\bin\Debug\Service1.pdb
+D:\Entity_framework\entity_abdul_sir\Service1\Service1\bin\Debug\EntityFramework.dll
+D:\Entity_framework\entity_abdul_sir\Service1\Service1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Entity_framework\entity_abdul_sir\Service1\Service1\bin\Debug\EntityFramework.xml
+D:\Entity_framework\entity_abdul_sir\Service1\Service1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Entity_framework\entity_abdul_sir\Service1\Service1\obj\Debug\Service1.csprojAssemblyReference.cache
+D:\Entity_framework\entity_abdul_sir\Service1\Service1\obj\Debug\Service1.csproj.CoreCompileInputs.cache
+D:\Entity_framework\entity_abdul_sir\Service1\Service1\obj\Debug\Service1.csproj.CopyComplete
+D:\Entity_framework\entity_abdul_sir\Service1\Service1\obj\Debug\Service1.exe
+D:\Entity_framework\entity_abdul_sir\Service1\Service1\obj\Debug\Service1.pdb
+D:\Entity_framework\entity_abdul_sir\Service1\Service1\obj\Debug\Service1.Migrations.Service.resources
+D:\Entity_framework\entity_abdul_sir\Service1\Service1\obj\Debug\Service1.csproj.GenerateResource.cache

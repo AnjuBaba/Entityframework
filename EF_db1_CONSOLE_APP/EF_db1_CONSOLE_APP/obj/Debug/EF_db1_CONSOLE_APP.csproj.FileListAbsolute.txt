@@ -1,0 +1,10 @@
+D:\Entity_framework\EF_db1_CONSOLE_APP\EF_db1_CONSOLE_APP\bin\Debug\EF_db1_CONSOLE_APP.exe.config
+D:\Entity_framework\EF_db1_CONSOLE_APP\EF_db1_CONSOLE_APP\bin\Debug\EF_db1_CONSOLE_APP.exe
+D:\Entity_framework\EF_db1_CONSOLE_APP\EF_db1_CONSOLE_APP\bin\Debug\EF_db1_CONSOLE_APP.pdb
+D:\Entity_framework\EF_db1_CONSOLE_APP\EF_db1_CONSOLE_APP\bin\Debug\EntityFramework.dll
+D:\Entity_framework\EF_db1_CONSOLE_APP\EF_db1_CONSOLE_APP\bin\Debug\EntityFramework.SqlServer.dll
+D:\Entity_framework\EF_db1_CONSOLE_APP\EF_db1_CONSOLE_APP\bin\Debug\EntityFramework.xml
+D:\Entity_framework\EF_db1_CONSOLE_APP\EF_db1_CONSOLE_APP\bin\Debug\EntityFramework.SqlServer.xml
+D:\Entity_framework\EF_db1_CONSOLE_APP\EF_db1_CONSOLE_APP\obj\Debug\EF_db1_CONSOLE_APP.csproj.CoreCompileInputs.cache
+D:\Entity_framework\EF_db1_CONSOLE_APP\EF_db1_CONSOLE_APP\obj\Debug\EF_db1_CONSOLE_APP.exe
+D:\Entity_framework\EF_db1_CONSOLE_APP\EF_db1_CONSOLE_APP\obj\Debug\EF_db1_CONSOLE_APP.pdb

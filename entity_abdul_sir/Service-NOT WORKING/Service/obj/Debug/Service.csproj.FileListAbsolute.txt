@@ -1,0 +1,12 @@
+D:\Entity_framework\entity_abdul_sir\Service\Service\bin\Debug\Service.exe.config
+D:\Entity_framework\entity_abdul_sir\Service\Service\bin\Debug\Service.exe
+D:\Entity_framework\entity_abdul_sir\Service\Service\bin\Debug\Service.pdb
+D:\Entity_framework\entity_abdul_sir\Service\Service\bin\Debug\EntityFramework.dll
+D:\Entity_framework\entity_abdul_sir\Service\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Entity_framework\entity_abdul_sir\Service\Service\bin\Debug\EntityFramework.xml
+D:\Entity_framework\entity_abdul_sir\Service\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Entity_framework\entity_abdul_sir\Service\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\Entity_framework\entity_abdul_sir\Service\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\Entity_framework\entity_abdul_sir\Service\Service\obj\Debug\Service.csproj.CopyComplete
+D:\Entity_framework\entity_abdul_sir\Service\Service\obj\Debug\Service.exe
+D:\Entity_framework\entity_abdul_sir\Service\Service\obj\Debug\Service.pdb
